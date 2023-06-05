@@ -1,5 +1,5 @@
 
-### Bem vindo ao meu repositório !!!! 👋 <br><br><br><br>
+### Bem vindo ao meu repositório GitHub !!!! 👋 <br><br><br><br>
 
 
 <div>
@@ -18,5 +18,12 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-     </div>   
+     </div>  
+      <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: h.d.t.batalha@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+      <a href = "https://www.linkedin.com/in/hélio-batalha-51a580276//">
+      <img width="30" src="linkedin.svg">
+    </a>
 </div>
