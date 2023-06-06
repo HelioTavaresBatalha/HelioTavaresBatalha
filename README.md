@@ -1,6 +1,6 @@
 
 ### Bem vindo ao meu repositório GitHub !!!! 👋 <br><br><br><br>
-<body style="background-color:red">
+
 
 <div>
   
@@ -35,4 +35,4 @@
 </div>
   
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-  </body>
+ 
