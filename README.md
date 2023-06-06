@@ -11,7 +11,7 @@
 
 <div  align="center"> 
     <div style="display: inline_block"><br>
-      <img align="left" height="250" alt="coding-time" src="code.gif">
+      <img align="left" height="250" alt="coding-time" src="code.gif"><br><br><br><br><br><br><br><br><br><br>
       <h1 align="center">Melhores Tecnologias <3</h1>
         <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,8 +20,17 @@
      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
      </div>  
       <h1 align="center">Redes Sociais</h1>
-       <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="">
+      <a href = "mailto: h.d.t.batalha@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+      <a href = "https://www.linkedin.com/in/hélio-batalha-51a580276//">
+      <img width="25" src="linkedin.svg">
+    </a>
+      <a href = "https://www.youtube.com">
+      <img width="35" src="youtube.svg">
+    </a>
+      <a href = "https://www.instagram.com">
+      <img width="25" src="instagram.png">
     </a>
 </div>
   
