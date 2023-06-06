@@ -1,6 +1,6 @@
 
 ### Bem vindo ao meu repositório GitHub !!!! 👋 <br><br><br><br>
-
+<body style="background-color:red">
 
 <div>
   
@@ -20,4 +20,10 @@
      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
      </div>  
       <h1 align="center">Redes Sociais</h1>
+       <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="30" src="">
+    </a>
 </div>
+  
+  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+  </body>
