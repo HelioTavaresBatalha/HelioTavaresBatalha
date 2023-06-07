@@ -5,7 +5,7 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HelioTavaresBatalha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioTavaresBatalha/layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioTavaresBatalhalayout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -37,7 +37,7 @@
     </a>
 </div> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelioTavaresBatalha&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
  
